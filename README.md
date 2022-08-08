@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://sahu-abhi.github.io/QR-code-component/](https://your-solution-url.com)
-- Live Site URL: [https://sahu-abhi.github.io/QR-code-component/](https://your-live-site-url.com)
+- Solution URL: [https://sahu-abhi.github.io/QR-code-component/](https://sahu-abhi.github.io/QR-code-component/)
+- Live Site URL: [https://sahu-abhi.github.io/QR-code-component/](https://sahu-abhi.github.io/QR-code-component/)
 
 ## My process
 Started laying out the display as desired using parent child concept, then started styling the appearance as closest to my knowledge using css.  
